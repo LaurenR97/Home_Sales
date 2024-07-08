@@ -62,12 +62,7 @@ Verify Uncaching:
 Verify that the home_sales table is no longer cached.
 6. Final Steps
 Download and Upload Notebook:
-Download your Home_Sales.ipynb file and upload it to your "Home_Sales" GitHub repository.
-Support and Resources
-Your instructional team is available to support you during classes and office hours. You also have access to learning assistants and tutors to help you with any topics as needed. Make sure to utilize these resources as you work on this project.
 
-Requirements and Grading
-Spark DataFrame Creation :
 
 Create a Spark DataFrame from the dataset.
 Temporary Table Creation :
